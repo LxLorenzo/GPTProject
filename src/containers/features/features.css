@@ -30,6 +30,12 @@
     line-height: 30px;
     color: #ff8a71;
     margin-top: 2rem;
+    transition: .2s;
+    cursor: pointer;
+}
+
+.gpt3__features-heading p:hover {
+    transform: scale(1.02);
 }
 
 .gpt3__features-container {
